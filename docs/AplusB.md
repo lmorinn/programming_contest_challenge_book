@@ -1,4 +1,4 @@
 ---
 title: A + B
-documentation_of: //sample/AplusB.hpp
+documentation_of: //Sample/AplusB.hpp
 ---
