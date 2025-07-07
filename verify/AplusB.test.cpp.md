@@ -3,7 +3,7 @@ data:
   _extendedDependsOn:
   - icon: ':heavy_check_mark:'
     path: Sample/AplusB.hpp
-    title: Sample/AplusB.hpp
+    title: A + B
   _extendedRequiredBy: []
   _extendedVerifiedWith: []
   _isVerificationFailed: false

@@ -24,8 +24,5 @@ data:
   - verify/AplusB.test.cpp
 documentation_of: Sample/AplusB.hpp
 layout: document
-redirect_from:
-- /library/Sample/AplusB.hpp
-- /library/Sample/AplusB.hpp.html
-title: Sample/AplusB.hpp
+title: A + B
 ---
